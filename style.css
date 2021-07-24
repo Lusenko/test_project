@@ -1,0 +1,27 @@
+.section3{
+    width: 100%;
+    margin: 0 auto;
+}
+
+.section3_block{
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+    background: coral;
+}
+
+h1{
+    text-align: center;
+    font-family: "Arial Black", sans-serif;
+    font-size: 26px;
+    color: white;
+}
+
+.section3_btn{
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background: #E2E2E2;
+    color: #2E96FF;
+    border: none;
+}
