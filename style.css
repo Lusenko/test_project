@@ -3,6 +3,12 @@ body{
     margin: 0;
 }
 
+ul{
+    margin-top: 0;
+    display: flex;
+    list-style-type: none;
+}
+
 .section_header{
     width: 100%;
     margin: 0 auto;
@@ -12,4 +18,12 @@ body{
     width: 100%;
     height: 200px;
     background: gray;
+}
+.header_links{
+    text-decoration: none;
+    margin-left: 50px;
+}
+
+.header_links a{
+    text-decoration: none;
 }
