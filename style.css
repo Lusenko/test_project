@@ -19,6 +19,11 @@ h1{
 }
 
 .section3_btn{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
     width: 100px;
     height: 50px;
     border-radius: 10px;
