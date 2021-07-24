@@ -1,5 +1,15 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
 .section_header{
     width: 100%;
     margin: 0 auto;
+}
+
+.header{
+    width: 100%;
+    height: 200px;
     background: gray;
 }
