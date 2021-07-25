@@ -7,3 +7,19 @@
     height: 300px;
     background: grey;
 }
+.title_block{
+    padding-top: 10px;
+}
+.title_block h1{
+    font-size: 40px;
+    line-height: 35px;
+    text-align: center;
+}
+.text_block{
+    padding-top: 10px;
+}
+.text_block p{
+    font-size: 20px;
+    line-height: 24px;
+    text-align: center;
+}
