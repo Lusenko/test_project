@@ -14,16 +14,33 @@ ul{
     margin: 0 auto;
 }
 
-.header{
-    width: 100%;
-    height: 200px;
-    background: gray;
-}
 .header_links{
     text-decoration: none;
     margin-left: 50px;
 }
 
-.header_links a{
+.header_links a {
     text-decoration: none;
+}
+
+div, p, a, img, form, button {
+    box-sizing: border-box;
+}
+h1, h2, h3, h4, h5, h6 {
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+
+.container{
+    width: 1400px;
+    margin: 0 auto;
+}
+.header{
+    max-width: 100%;
+    height: 700px;
+    background-image: url("images/background.jpg");
+    background-size: cover;
 }
