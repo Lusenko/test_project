@@ -43,7 +43,10 @@ a {
     width: 100%;
     margin: 0 auto;
 }
-
+.section3{
+    width: 100%;
+    margin: 0 auto;
+}
 .section1_block{
     width: 1100px;
     height: 500px;
@@ -68,9 +71,37 @@ a {
 .title-block{
     text-align: center;
 }
-.text-block p{
+.text-block p {
     text-align: center;
     margin: 0 auto;
     width: 500px;
     padding-bottom: 10px;
+}
+.section3_block{
+    width: 1100px;
+    height: 500px;
+    margin: 0 auto;
+    background: coral;
+}
+
+.section3_block h1{
+    text-align: center;
+    font-family: "Arial Black", sans-serif;
+    font-size: 26px;
+    color: burlywood;
+    padding-top: 100px;
+}
+
+.section3_btn{
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100px;
+    height: 50px;
+    border-radius: 10px;
+    background: #E2E2E2;
+    color: #2E96FF;
+    border: none;
 }
