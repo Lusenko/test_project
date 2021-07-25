@@ -55,3 +55,22 @@ a {
     font-family: "Arial Black", sans-serif;
     font-size: 26px;
 }
+
+.main-block{
+    display: flex;
+    justify-content: space-around;
+}
+.block{
+    width: 650px;
+    border: 1px solid #000;
+    border-radius: 10px;
+}
+.title-block{
+    text-align: center;
+}
+.text-block p{
+    text-align: center;
+    margin: 0 auto;
+    width: 500px;
+    padding-bottom: 10px;
+}
